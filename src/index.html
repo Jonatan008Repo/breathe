@@ -7,18 +7,18 @@
     <link rel="stylesheet" href="styles/main.css">
 </head>
 <body>
-	<h1>Ejercicio de Respiración de Cuatro Tiempos</h1>
-   <div>
+	<div class="container">
+		<h1>Ejercicio de Respiración de Cuatro Tiempos</h1>
 		<section>
-				<div id="breathing-container">
-						 <p id="breathing-text">Inhala</p>
-				 </div>
-			 </section>
-			 <section>
-				<label for="time-slider">Duración de la respiración (segundos):<span id="time-value">4</span></label>
-				<input type="range" id="time-slider" min="3" max="8" value="4">
-			 </section>
-	 </div>
+			<label for="time-slider">Duración de la respiración (segundos):<span id="time-value">4</span></label>
+			<input type="range" id="time-slider" min="3" max="8" value="4">
+		</section>
+		<div id="breathing-container">
+			<div id="time-bar"></div>
+			<p id="breathing-text">Preparate</p>
+		</div>
+    <button id="start-button">Comenzar</button>
+	</div>
     <script src="scripts/main.js"></script>
 </body>
 </html>

@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /assets/
+Disallow: /errores/
+Disallow: /src/
+
+
+Sitemap: https://respirarunodos.com/sitemap.xml
