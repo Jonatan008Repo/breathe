@@ -1,12 +1,18 @@
 /* main.css */
 /* Estilos para el sitio web */
+.montserrat-Weight {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:900;
+  font-style: normal;
+}
 body{
 		margin: 0;
 		padding: 0;
 		width: 100vw;
     height: 100vh;
 		box-sizing: border-box;
-		font-family: Arial, sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		background-color: #f0f8ff;
 		background-image: url("../assets/trianglify-lowres.png");
 		background-repeat: no-repeat;
@@ -27,6 +33,10 @@ body{
     height: 100vh;
 		gap: 20px;
 }
+ .container .blog{
+	width: 60vw;
+	text-align: center;
+}
 #breathing-container {
     text-align: center;
     border-radius: 10px;
@@ -36,7 +46,7 @@ body{
 }
 #breathing-text {
     font-size: 5em;
-		font-weight: 100;
+
 }
 #time-bar{
 		height: 100%;
@@ -57,7 +67,7 @@ button {
 		width: 100%;
 		height: 100px;
 		font-size: 2em;
-		font-weight: 100;
+
 		border-radius: 10px;
 		border: none;
 }
@@ -89,7 +99,7 @@ footer {
     width: 100%;
     top: 0;
     left: 0;
-    background-color: #333;
+    background-color: #0416688f;
     z-index: 1000;
 }
 
@@ -115,6 +125,5 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #575757;
+    background-color: #09247060;
 }
-
