@@ -1,4 +1,4 @@
-const states = ['Inhala', 'Mantén', 'Exhala', 'Mantén'];
+const states = ['Inhala', 'Mantén', 'Exhala', 'Espera'];
 const stateColors = [
 	'rgba(7, 3, 140, 0.4)',
 	'rgba(0, 169, 128, 0.4)',
