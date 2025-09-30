@@ -1,8 +1,6 @@
 User-agent: *
 
-Disallow: /assets/
-Disallow: /errores/
-Disallow: /src/
-
+# Permitir rastreo de las páginas públicas. Mantener privado lo que sea necesario.
+Disallow:
 
 Sitemap: https://respirarunodos.com/sitemap.xml

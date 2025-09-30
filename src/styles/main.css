@@ -10,7 +10,7 @@ body{
 		margin: 0;
 		padding: 0;
 		width: 100vw;
-    height: 100vh;
+    height: 100%;
 		box-sizing: border-box;
 		font-family: 'Montserrat', sans-serif;
 		background-color: #f0f8ff;
@@ -27,11 +27,11 @@ body{
 .container {
     display: flex;
 		flex-direction: column;
-    justify-content: center;
     align-items: center;
 		width: 90vw;
-    height: 100vh;
+
 		gap: 20px;
+		padding: 50px;
 }
  .container .blog{
 	width: 60vw;
@@ -46,7 +46,6 @@ body{
 }
 #breathing-text {
     font-size: 5em;
-
 }
 #time-bar{
 		height: 100%;
@@ -67,7 +66,6 @@ button {
 		width: 100%;
 		height: 100px;
 		font-size: 2em;
-
 		border-radius: 10px;
 		border: none;
 }
@@ -102,7 +100,6 @@ footer {
     background-color: #0416688f;
     z-index: 1000;
 }
-
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -110,12 +107,10 @@ nav ul {
     display: flex;
     justify-content: center;
 }
-
 nav ul li {
     margin: 0;
     padding: 0;
 }
-
 nav ul li a {
     display: block;
     padding: 14px 20px;
@@ -123,7 +118,9 @@ nav ul li a {
     color: white;
     text-align: center;
 }
-
 nav ul li a:hover {
     background-color: #09247060;
 }
+img{max-width:100%;height:auto}
+
+.hero-image{max-width:500px;width:100%;display:block;margin:18px auto;border-radius:8px}

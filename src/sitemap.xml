@@ -6,21 +6,35 @@
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
-     <url>
-         <loc>https://respirarunodos.com/paz.html</loc>
+    <url>
+        <loc>https://respirarunodos.com/paz.html</loc>
         <lastmod>2023-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-    </url> <url>
-         <loc>https://respirarunodos.com/Dormir.html</loc>
+    </url>
+    <url>
+        <loc>https://respirarunodos.com/Dormir.html</loc>
         <lastmod>2023-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-    </url><url>
-         <loc>https://respirarunodos.com/antiestres.html</loc>
+    </url>
+    <url>
+        <loc>https://respirarunodos.com/antiestres.html</loc>
         <lastmod>2023-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://respirarunodos.com/privacy.html</loc>
+        <lastmod>2025-09-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://respirarunodos.com/contact.html</loc>
+        <lastmod>2025-09-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
     </url>
     <!--Agrega más URLs según sea necesario -->
 </urlset>
