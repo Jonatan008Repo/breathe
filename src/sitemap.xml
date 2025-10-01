@@ -25,6 +25,30 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://respirarunodos.com/about.html</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    <url>
+        <loc>https://respirarunodos.com/terms.html</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://respirarunodos.com/blog/respiracion-ansiedad.html</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://respirarunodos.com/blog/respiracion-suenos.html</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://respirarunodos.com/privacy.html</loc>
         <lastmod>2025-09-29</lastmod>
         <changefreq>yearly</changefreq>
