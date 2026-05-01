@@ -201,3 +201,6 @@ $RECYCLE.BIN/
 public/src/assets/img/*
 src/ads.txt
 src/assets.zip
+
+#ia
+.github/*
