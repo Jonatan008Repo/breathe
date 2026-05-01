@@ -9,15 +9,6 @@ Página web interactiva con ejercicio de respiración en 4 tiempos para relajaci
 - Google AdSense
 - GitHub Pages
 
-## Desarrollo
-
-```bash
-# Servir localmente
-python -m http.server 8000 --directory docs
-```
-
-Abrir http://localhost:8000 en el navegador.
-
 ## Estructura
 
 - `docs/` - Código fuente (HTML, CSS, JS, assets)
